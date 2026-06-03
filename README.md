@@ -1,5 +1,14 @@
-outdoor-operations-relational:
+# Group 2 MIST4610 Group Project 1
 
+## Team Name:
+21484 Group A2
+
+## Team Members: 
+1. Roshni Chaudhury - Group Leader
+2. Malia Bender - Conceptual Modeler
+3. Alexander Davidow - Database Designer
+4. Justin Rather - Data Wrangler
+5. Samira Gulyamov - SQL Writer
 
 ## Problem Description:
 The task at hand is to model and build a relational database for the Wilderness Exploration Society (WES) at Peachtree State University. The purpose of the database is to visualize the general workings of an outdoor recreation and equipment rental company. The database centers around customers, rental agreements, trips, staff, and equipment inventory, which all play a key role in the company's day-to-day operations. Customers can rent equipment and register for scheduled trips, while the staff oversees rentals, maintenence tasks, trip operation, and routine inspections. Our goal is to ultimaly model these relationships, generate sample data, and populate the entities and attributes so that the database can support meaningful business insight and decision-making.
